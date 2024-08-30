@@ -19,8 +19,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Divyadharshini A
-RegisterNumber:  212222240027
+Developed by: MURALI S
+RegisterNumber:  212222230088
 */
 import pandas as pd
 import numpy as np
@@ -104,3 +104,4 @@ Values of MSE, MAE and RMSE
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
